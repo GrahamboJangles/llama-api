@@ -10,3 +10,4 @@ try:
 except UnicodeDecodeError as e:
     pass
                     
+print(response)
